@@ -21,4 +21,4 @@ The main libraries which have been used are:
 - pandas
 - matplotlib
 - seaborn
-The model has a precisio of 92.5, an F1-scrore of 92.5 and a recall of 92.5 as well.
+The model has a precision of 92.5, an F1-scrore of 92.5 and a recall of 92.5 as well.
