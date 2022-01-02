@@ -11,3 +11,14 @@ The libraries used are:
 3. Pandas
 4. Matplotlib.pyplot
 5. Seaborn.
+
+# Project 2: Logistic Regression
+In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+We have used the Logistic Reggression model from sklearn linear model family for this project.
+The main libraries which have been used are:
+- numpy
+- scikit learn
+- pandas
+- matplotlib
+- seaborn
+The model has a precisio of 92.5, an F1-scrore of 92.5 and a recall of 92.5 as well.
