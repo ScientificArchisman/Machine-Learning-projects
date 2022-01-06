@@ -22,3 +22,14 @@ The main libraries which have been used are:
 - matplotlib
 - seaborn
 The model has a precision of 92.5, an F1-scrore of 92.5 and a recall of 92.5 as well.
+
+# Project 3: Support Vector Machines
+In this project we will be working with the famous iris dataset. We will try to create a model that will predict the type of the flower.
+We have used the SVM model from sklearn SVM family for this project.
+The main libraries which have been used are:
+- numpy
+- scikit learn
+- pandas
+- matplotlib
+- seaborn
+The model has a precision of 1.00, an F1-scrore of 1.00 and a recall of 1.00 as wel
